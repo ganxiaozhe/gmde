@@ -14,9 +14,8 @@ gxz.exEditor = new geditor('gmde-container',{pushHTML:1}).set({
 
 # 关联插件
 在引入以下插件后，GMDE 将自动调用他们：
-
-GazeImg 图片懒加载（链接待补充）
-Highlight 代码高亮
+- GazeImg 图片懒加载（链接待补充）
+- [Highlight 代码高亮](https://highlightjs.org/download/)
 
 # 自定义 GMDE
 你可以随时通过 .set(options) 对 GMDE 进行自定义，包括实时预览、字符限制、自动保存以及文件上传功能。就像换装小游戏，想让他穿多少就穿多少 :3
